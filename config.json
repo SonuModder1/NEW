@@ -1,0 +1,10 @@
+{
+  "MCBOT": "56DDoS_",
+  "MINECRAFT_DEFAULT_PROTOCOL": 47,
+  "proxy-providers": [
+
+		{"type":4, "url": "https://raw.githubusercontent.com/SonuModder1/Githg/main/proxy.txt": 5},
+
+		
+	]
+}
